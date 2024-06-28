@@ -6,9 +6,14 @@ Don't mind the dark brackground. It's not like the green pasty coloured one from
 Very similat to using dark mode on your personal devices. 
 
 Rules:
+
 • Don't eat yourself or touch the walls.
+
 • You can retry as many times as you want, but you will start from level 0 again. 
+
 • There are 10 levels in the game. If you beat the 10th level, then you win the game
+
 • The more apples you eat, the longer the snake grows and the faster it moves! 
+
 
 Good luck and enjoy our interpretation of this iconic game!
